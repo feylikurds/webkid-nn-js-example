@@ -4,9 +4,10 @@ A working example of the webkid.io article [Neural Networks in Javascript](http:
 ## Installation
 One must install Node.js and npm, then of course download the script or just clone this repo.
 
-> npm init
-> npm install mnist --save
-> npm install synaptic --save
+> npm install mnist
+
+> npm install synaptic
+
 > node nn.js
 
 ## Purpose
