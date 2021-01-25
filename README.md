@@ -75,9 +75,6 @@ The neural network believed the digit was a 5
 when it really was a 0
 ```
 
-## Miscellaneous
-Check out my programming blog! http://ar.hn/blog
-
 ## License
-Copyright (c) 2016 Aryo Pehlewan feylikurds@gmail.com 
+Copyright (c) 2016 Aryo Pehlewan aryopehlewan@hotmail.com 
 Licensed under the GPL license.
