@@ -1,6 +1,6 @@
 /*
 A working example of the webkid.io article "Neural Networks in Javascript".
-Copyright (C) 2016 Aryo Pehlewan feylikurds@gmail.com
+Copyright (C) 2016 Aryo Pehlewan aryopehlewan@hotmail.com
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
