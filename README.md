@@ -75,9 +75,6 @@ The neural network believed the digit was a 5
 when it really was a 0
 ```
 
-## Miscellaneous
-My website is http://www.quoxium.com
-
 ## License
 Copyright (c) 2016 Aryo Pehlewan aryopehlewan@hotmail.com 
 Licensed under the GPL license.
